@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 echo "ECHOING"
+echo $HERES_A_SECRET
 echo $1
